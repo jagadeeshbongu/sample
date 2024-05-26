@@ -1,0 +1,3 @@
+seabone
+word2vec
+glove
